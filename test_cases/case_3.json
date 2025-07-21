@@ -1,0 +1,7 @@
+{
+  "Supervisor": [["Velma", 50000], ["Daphne", 20000], ["Freddy", 10000]],
+  "Waiter": [["Tyke", 40000], ["Jerry", 30000], ["Tom", 20000]],
+  "Cashier": [["Batman", 100000]],
+  "Chef": [["Garfield", 30000], ["Shaggy", 30000], ["Cartman", 40000], ["Simpson", 10000]],
+  "Cleaner": [["Scrubby", 30000], ["Dobby", 10000]]
+}
